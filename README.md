@@ -1,27 +1,49 @@
-# ProjetoLista
+# COTI INFORMÁTICA - Projeto Heroes
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/oraculocs/projeto-heroes/blob/master/LICENSE) 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.
+# Sobre o projeto
 
-## Development server
+https://oraculocs.github.io/projeto-heroes/
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Esse projeto consiste em uma Single Page Application feita em Angular4 e Bootstrap4 conta também com elementos como FontAwesome, 
+componentes, Lista Provider, Barra de Navegação, Menu Toggle, Icones, Campo de Pesquisa, Carrossel (Slides), Indicadores, Scripts, Modal Dialog, Login, Lista Cards,
+Tooltip, Sombra.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Layout Web
 
-## Build
+![Web 1](https://github.com/oraculocs/assets/blob/master/heroes/Heroes1.JPG)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+![Web 2](https://github.com/oraculocs/assets/blob/master/heroes/heroes2.JPG)
 
-## Running unit tests
+![Web 3](https://github.com/oraculocs/assets/blob/master/heroes/heroes3.JPG)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Web 4](https://github.com/oraculocs/assets/blob/master/heroes/heroes4.JPG)
 
-## Running end-to-end tests
+![Web 5](https://github.com/oraculocs/assets/blob/master/heroes/heroes5.JPG)
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+![Web 6](https://github.com/oraculocs/assets/blob/master/heroes/heroes6.JPG)
 
-## Further help
+![Web 7](https://github.com/oraculocs/assets/blob/master/heroes/heroes7.JPG)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![Web 8](https://github.com/oraculocs/assets/blob/master/heroes/heroes9.JPG)
+
+![Web 9](https://github.com/oraculocs/assets/blob/master/heroes/heroes10.JPG)
+
+![Web 10](https://github.com/oraculocs/assets/blob/master/heroes/heroes11.JPG)
+
+# Tecnologias utilizadas
+## Front end
+- HTML / CSS / JS / TypeScript
+- Angular 4
+- BootStrap 4
+## Implantação em produção
+- Front end web: Github Pages
+
+# Autor
+
+Carlos Augusto de Oliveira
+- https://www.linkedin.com/in/carlos-augusto-47a1764a/
+- https://oraculocs.github.io
+
+
