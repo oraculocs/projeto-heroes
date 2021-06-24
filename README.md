@@ -8,7 +8,11 @@ https://oraculocs.github.io/projeto-heroes/
 Esse projeto consiste em uma Single Page Application feita em Angular4 e Bootstrap4 conta também com elementos como FontAwesome, 
 componentes, Lista Provider, Barra de Navegação, Menu Toggle, Icones, Campo de Pesquisa, Carrossel (Slides), Indicadores, Scripts, Modal Dialog, Login, Lista Cards,
 Tooltip, Sombra.
+<br/>
+<h2 align="center"> Funcionamento do Sistema </h2>
 
+<p align="center">
+  <img src="https://github.com/oraculocs/assets/blob/master/heroes/Super%20Heroes_menor-1.gif" />
 
 ## Layout Web
 
