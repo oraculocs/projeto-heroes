@@ -39,6 +39,7 @@ Tooltip, Sombra.
 - BootStrap 4
 ## Implantação em produção
 - Front end web: Github Pages
+- https://oraculocs.github.io/projeto-heroes/
 
 # Autor
 
